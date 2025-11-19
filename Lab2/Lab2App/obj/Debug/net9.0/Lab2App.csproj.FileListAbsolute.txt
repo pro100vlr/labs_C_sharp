@@ -1,0 +1,29 @@
+C:/Users/1601022/Desktop/Лера ИТМО/Lab2/Lab2App/obj/Debug/net9.0/Lab2App.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/1601022/Desktop/Лера ИТМО/Lab2/Lab2App/obj/Debug/net9.0/Lab2App.AssemblyInfoInputs.cache
+C:/Users/1601022/Desktop/Лера ИТМО/Lab2/Lab2App/obj/Debug/net9.0/Lab2App.AssemblyInfo.cs
+C:/Users/1601022/Desktop/Лера ИТМО/Lab2/Lab2App/obj/Debug/net9.0/Lab2App.csproj.CoreCompileInputs.cache
+C:/Users/1601022/Desktop/Лера ИТМО/Lab2/Lab2App/bin/Debug/net9.0/Lab2App.exe
+C:/Users/1601022/Desktop/Лера ИТМО/Lab2/Lab2App/bin/Debug/net9.0/Lab2App.deps.json
+C:/Users/1601022/Desktop/Лера ИТМО/Lab2/Lab2App/bin/Debug/net9.0/Lab2App.runtimeconfig.json
+C:/Users/1601022/Desktop/Лера ИТМО/Lab2/Lab2App/bin/Debug/net9.0/Lab2App.dll
+C:/Users/1601022/Desktop/Лера ИТМО/Lab2/Lab2App/bin/Debug/net9.0/Lab2App.pdb
+C:/Users/1601022/Desktop/Лера ИТМО/Lab2/Lab2App/obj/Debug/net9.0/Lab2App.dll
+C:/Users/1601022/Desktop/Лера ИТМО/Lab2/Lab2App/obj/Debug/net9.0/refint/Lab2App.dll
+C:/Users/1601022/Desktop/Лера ИТМО/Lab2/Lab2App/obj/Debug/net9.0/Lab2App.pdb
+C:/Users/1601022/Desktop/Лера ИТМО/Lab2/Lab2App/obj/Debug/net9.0/Lab2App.genruntimeconfig.cache
+C:/Users/1601022/Desktop/Лера ИТМО/Lab2/Lab2App/obj/Debug/net9.0/ref/Lab2App.dll
+/Users/valeriya/Desktop/Лабораторные работы ООП/labs_C_sharp/Lab2/Lab2App/bin/Debug/net9.0/Lab2App
+/Users/valeriya/Desktop/Лабораторные работы ООП/labs_C_sharp/Lab2/Lab2App/bin/Debug/net9.0/Lab2App.deps.json
+/Users/valeriya/Desktop/Лабораторные работы ООП/labs_C_sharp/Lab2/Lab2App/bin/Debug/net9.0/Lab2App.runtimeconfig.json
+/Users/valeriya/Desktop/Лабораторные работы ООП/labs_C_sharp/Lab2/Lab2App/bin/Debug/net9.0/Lab2App.dll
+/Users/valeriya/Desktop/Лабораторные работы ООП/labs_C_sharp/Lab2/Lab2App/bin/Debug/net9.0/Lab2App.pdb
+/Users/valeriya/Desktop/Лабораторные работы ООП/labs_C_sharp/Lab2/Lab2App/obj/Debug/net9.0/Lab2App.GeneratedMSBuildEditorConfig.editorconfig
+/Users/valeriya/Desktop/Лабораторные работы ООП/labs_C_sharp/Lab2/Lab2App/obj/Debug/net9.0/Lab2App.AssemblyInfoInputs.cache
+/Users/valeriya/Desktop/Лабораторные работы ООП/labs_C_sharp/Lab2/Lab2App/obj/Debug/net9.0/Lab2App.AssemblyInfo.cs
+/Users/valeriya/Desktop/Лабораторные работы ООП/labs_C_sharp/Lab2/Lab2App/obj/Debug/net9.0/Lab2App.csproj.CoreCompileInputs.cache
+/Users/valeriya/Desktop/Лабораторные работы ООП/labs_C_sharp/Lab2/Lab2App/obj/Debug/net9.0/Lab2App.sourcelink.json
+/Users/valeriya/Desktop/Лабораторные работы ООП/labs_C_sharp/Lab2/Lab2App/obj/Debug/net9.0/Lab2App.dll
+/Users/valeriya/Desktop/Лабораторные работы ООП/labs_C_sharp/Lab2/Lab2App/obj/Debug/net9.0/refint/Lab2App.dll
+/Users/valeriya/Desktop/Лабораторные работы ООП/labs_C_sharp/Lab2/Lab2App/obj/Debug/net9.0/Lab2App.pdb
+/Users/valeriya/Desktop/Лабораторные работы ООП/labs_C_sharp/Lab2/Lab2App/obj/Debug/net9.0/Lab2App.genruntimeconfig.cache
+/Users/valeriya/Desktop/Лабораторные работы ООП/labs_C_sharp/Lab2/Lab2App/obj/Debug/net9.0/ref/Lab2App.dll
