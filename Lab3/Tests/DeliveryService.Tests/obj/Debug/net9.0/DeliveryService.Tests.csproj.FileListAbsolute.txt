@@ -1,0 +1,212 @@
+C:/Users/1601022/Desktop/Лера ИТМО/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/.msCoverageSourceRootsMapping_DeliveryService.Tests
+C:/Users/1601022/Desktop/Лера ИТМО/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/CoverletSourceRootsMapping_DeliveryService.Tests
+C:/Users/1601022/Desktop/Лера ИТМО/Lab3/Tests/DeliveryService.Tests/obj/Debug/net9.0/DeliveryService.Tests.csproj.AssemblyReference.cache
+C:/Users/1601022/Desktop/Лера ИТМО/Lab3/Tests/DeliveryService.Tests/obj/Debug/net9.0/DeliveryService.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/1601022/Desktop/Лера ИТМО/Lab3/Tests/DeliveryService.Tests/obj/Debug/net9.0/DeliveryService.Tests.AssemblyInfoInputs.cache
+C:/Users/1601022/Desktop/Лера ИТМО/Lab3/Tests/DeliveryService.Tests/obj/Debug/net9.0/DeliveryService.Tests.AssemblyInfo.cs
+C:/Users/1601022/Desktop/Лера ИТМО/Lab3/Tests/DeliveryService.Tests/obj/Debug/net9.0/DeliveryService.Tests.csproj.CoreCompileInputs.cache
+C:/Users/1601022/Desktop/Лера ИТМО/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/testhost.dll
+C:/Users/1601022/Desktop/Лера ИТМО/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/DeliveryService.deps.json
+C:/Users/1601022/Desktop/Лера ИТМО/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/DeliveryService.runtimeconfig.json
+C:/Users/1601022/Desktop/Лера ИТМО/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/DeliveryService.exe
+C:/Users/1601022/Desktop/Лера ИТМО/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/testhost.exe
+C:/Users/1601022/Desktop/Лера ИТМО/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/NUnit3.TestAdapter.dll
+C:/Users/1601022/Desktop/Лера ИТМО/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/NUnit3.TestAdapter.pdb
+C:/Users/1601022/Desktop/Лера ИТМО/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/nunit.engine.dll
+C:/Users/1601022/Desktop/Лера ИТМО/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/nunit.engine.api.dll
+C:/Users/1601022/Desktop/Лера ИТМО/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/nunit.engine.core.dll
+C:/Users/1601022/Desktop/Лера ИТМО/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/testcentric.engine.metadata.dll
+C:/Users/1601022/Desktop/Лера ИТМО/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/DeliveryService.Tests.deps.json
+C:/Users/1601022/Desktop/Лера ИТМО/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/DeliveryService.Tests.runtimeconfig.json
+C:/Users/1601022/Desktop/Лера ИТМО/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/DeliveryService.Tests.dll
+C:/Users/1601022/Desktop/Лера ИТМО/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/DeliveryService.Tests.pdb
+C:/Users/1601022/Desktop/Лера ИТМО/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:/Users/1601022/Desktop/Лера ИТМО/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/Microsoft.TestPlatform.CoreUtilities.dll
+C:/Users/1601022/Desktop/Лера ИТМО/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/Microsoft.TestPlatform.PlatformAbstractions.dll
+C:/Users/1601022/Desktop/Лера ИТМО/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:/Users/1601022/Desktop/Лера ИТМО/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/Microsoft.TestPlatform.CommunicationUtilities.dll
+C:/Users/1601022/Desktop/Лера ИТМО/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/Microsoft.TestPlatform.CrossPlatEngine.dll
+C:/Users/1601022/Desktop/Лера ИТМО/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/Microsoft.TestPlatform.Utilities.dll
+C:/Users/1601022/Desktop/Лера ИТМО/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/Microsoft.VisualStudio.TestPlatform.Common.dll
+C:/Users/1601022/Desktop/Лера ИТМО/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/Newtonsoft.Json.dll
+C:/Users/1601022/Desktop/Лера ИТМО/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/nunit.framework.dll
+C:/Users/1601022/Desktop/Лера ИТМО/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/nunit.framework.legacy.dll
+C:/Users/1601022/Desktop/Лера ИТМО/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/1601022/Desktop/Лера ИТМО/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/1601022/Desktop/Лера ИТМО/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/de/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/1601022/Desktop/Лера ИТМО/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/1601022/Desktop/Лера ИТМО/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/es/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/1601022/Desktop/Лера ИТМО/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/1601022/Desktop/Лера ИТМО/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/1601022/Desktop/Лера ИТМО/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/1601022/Desktop/Лера ИТМО/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/it/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/1601022/Desktop/Лера ИТМО/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/1601022/Desktop/Лера ИТМО/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/1601022/Desktop/Лера ИТМО/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/1601022/Desktop/Лера ИТМО/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/1601022/Desktop/Лера ИТМО/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/1601022/Desktop/Лера ИТМО/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/1601022/Desktop/Лера ИТМО/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/1601022/Desktop/Лера ИТМО/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/1601022/Desktop/Лера ИТМО/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/1601022/Desktop/Лера ИТМО/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/1601022/Desktop/Лера ИТМО/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/1601022/Desktop/Лера ИТМО/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/1601022/Desktop/Лера ИТМО/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/1601022/Desktop/Лера ИТМО/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/1601022/Desktop/Лера ИТМО/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/1601022/Desktop/Лера ИТМО/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/1601022/Desktop/Лера ИТМО/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/1601022/Desktop/Лера ИТМО/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/1601022/Desktop/Лера ИТМО/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/1601022/Desktop/Лера ИТМО/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/1601022/Desktop/Лера ИТМО/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/1601022/Desktop/Лера ИТМО/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/1601022/Desktop/Лера ИТМО/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/1601022/Desktop/Лера ИТМО/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/1601022/Desktop/Лера ИТМО/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/1601022/Desktop/Лера ИТМО/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/1601022/Desktop/Лера ИТМО/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/1601022/Desktop/Лера ИТМО/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/1601022/Desktop/Лера ИТМО/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/1601022/Desktop/Лера ИТМО/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/1601022/Desktop/Лера ИТМО/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/1601022/Desktop/Лера ИТМО/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/1601022/Desktop/Лера ИТМО/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/1601022/Desktop/Лера ИТМО/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/1601022/Desktop/Лера ИТМО/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/1601022/Desktop/Лера ИТМО/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/1601022/Desktop/Лера ИТМО/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/1601022/Desktop/Лера ИТМО/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/1601022/Desktop/Лера ИТМО/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/1601022/Desktop/Лера ИТМО/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/1601022/Desktop/Лера ИТМО/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/1601022/Desktop/Лера ИТМО/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/1601022/Desktop/Лера ИТМО/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/1601022/Desktop/Лера ИТМО/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/1601022/Desktop/Лера ИТМО/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/1601022/Desktop/Лера ИТМО/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/1601022/Desktop/Лера ИТМО/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/1601022/Desktop/Лера ИТМО/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/1601022/Desktop/Лера ИТМО/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/1601022/Desktop/Лера ИТМО/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/1601022/Desktop/Лера ИТМО/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/1601022/Desktop/Лера ИТМО/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/1601022/Desktop/Лера ИТМО/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/1601022/Desktop/Лера ИТМО/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/1601022/Desktop/Лера ИТМО/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/1601022/Desktop/Лера ИТМО/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/1601022/Desktop/Лера ИТМО/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/DeliveryService.dll
+C:/Users/1601022/Desktop/Лера ИТМО/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/DeliveryService.pdb
+C:/Users/1601022/Desktop/Лера ИТМО/Lab3/Tests/DeliveryService.Tests/obj/Debug/net9.0/Delivery.05933267.Up2Date
+C:/Users/1601022/Desktop/Лера ИТМО/Lab3/Tests/DeliveryService.Tests/obj/Debug/net9.0/DeliveryService.Tests.dll
+C:/Users/1601022/Desktop/Лера ИТМО/Lab3/Tests/DeliveryService.Tests/obj/Debug/net9.0/refint/DeliveryService.Tests.dll
+C:/Users/1601022/Desktop/Лера ИТМО/Lab3/Tests/DeliveryService.Tests/obj/Debug/net9.0/DeliveryService.Tests.pdb
+C:/Users/1601022/Desktop/Лера ИТМО/Lab3/Tests/DeliveryService.Tests/obj/Debug/net9.0/DeliveryService.Tests.genruntimeconfig.cache
+C:/Users/1601022/Desktop/Лера ИТМО/Lab3/Tests/DeliveryService.Tests/obj/Debug/net9.0/ref/DeliveryService.Tests.dll
+/Users/valeriya/Desktop/Лабораторные работы ООП/labs_C_sharp/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/.msCoverageSourceRootsMapping_DeliveryService.Tests
+/Users/valeriya/Desktop/Лабораторные работы ООП/labs_C_sharp/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/CoverletSourceRootsMapping_DeliveryService.Tests
+/Users/valeriya/Desktop/Лабораторные работы ООП/labs_C_sharp/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/NUnit3.TestAdapter.dll
+/Users/valeriya/Desktop/Лабораторные работы ООП/labs_C_sharp/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/NUnit3.TestAdapter.pdb
+/Users/valeriya/Desktop/Лабораторные работы ООП/labs_C_sharp/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/nunit.engine.dll
+/Users/valeriya/Desktop/Лабораторные работы ООП/labs_C_sharp/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/nunit.engine.api.dll
+/Users/valeriya/Desktop/Лабораторные работы ООП/labs_C_sharp/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/nunit.engine.core.dll
+/Users/valeriya/Desktop/Лабораторные работы ООП/labs_C_sharp/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/testcentric.engine.metadata.dll
+/Users/valeriya/Desktop/Лабораторные работы ООП/labs_C_sharp/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/DeliveryService.deps.json
+/Users/valeriya/Desktop/Лабораторные работы ООП/labs_C_sharp/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/DeliveryService.runtimeconfig.json
+/Users/valeriya/Desktop/Лабораторные работы ООП/labs_C_sharp/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/DeliveryService
+/Users/valeriya/Desktop/Лабораторные работы ООП/labs_C_sharp/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/DeliveryService.Tests.deps.json
+/Users/valeriya/Desktop/Лабораторные работы ООП/labs_C_sharp/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/DeliveryService.Tests.runtimeconfig.json
+/Users/valeriya/Desktop/Лабораторные работы ООП/labs_C_sharp/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/DeliveryService.Tests.dll
+/Users/valeriya/Desktop/Лабораторные работы ООП/labs_C_sharp/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/DeliveryService.Tests.pdb
+/Users/valeriya/Desktop/Лабораторные работы ООП/labs_C_sharp/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/Microsoft.VisualStudio.CodeCoverage.Shim.dll
+/Users/valeriya/Desktop/Лабораторные работы ООП/labs_C_sharp/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/Microsoft.TestPlatform.CoreUtilities.dll
+/Users/valeriya/Desktop/Лабораторные работы ООП/labs_C_sharp/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/Microsoft.TestPlatform.PlatformAbstractions.dll
+/Users/valeriya/Desktop/Лабораторные работы ООП/labs_C_sharp/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+/Users/valeriya/Desktop/Лабораторные работы ООП/labs_C_sharp/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/Microsoft.TestPlatform.CommunicationUtilities.dll
+/Users/valeriya/Desktop/Лабораторные работы ООП/labs_C_sharp/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/Microsoft.TestPlatform.CrossPlatEngine.dll
+/Users/valeriya/Desktop/Лабораторные работы ООП/labs_C_sharp/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/Microsoft.TestPlatform.Utilities.dll
+/Users/valeriya/Desktop/Лабораторные работы ООП/labs_C_sharp/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/Microsoft.VisualStudio.TestPlatform.Common.dll
+/Users/valeriya/Desktop/Лабораторные работы ООП/labs_C_sharp/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/testhost.dll
+/Users/valeriya/Desktop/Лабораторные работы ООП/labs_C_sharp/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/Newtonsoft.Json.dll
+/Users/valeriya/Desktop/Лабораторные работы ООП/labs_C_sharp/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/nunit.framework.dll
+/Users/valeriya/Desktop/Лабораторные работы ООП/labs_C_sharp/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/nunit.framework.legacy.dll
+/Users/valeriya/Desktop/Лабораторные работы ООП/labs_C_sharp/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/valeriya/Desktop/Лабораторные работы ООП/labs_C_sharp/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/valeriya/Desktop/Лабораторные работы ООП/labs_C_sharp/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/de/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/valeriya/Desktop/Лабораторные работы ООП/labs_C_sharp/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/valeriya/Desktop/Лабораторные работы ООП/labs_C_sharp/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/es/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/valeriya/Desktop/Лабораторные работы ООП/labs_C_sharp/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/valeriya/Desktop/Лабораторные работы ООП/labs_C_sharp/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/valeriya/Desktop/Лабораторные работы ООП/labs_C_sharp/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/valeriya/Desktop/Лабораторные работы ООП/labs_C_sharp/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/it/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/valeriya/Desktop/Лабораторные работы ООП/labs_C_sharp/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/valeriya/Desktop/Лабораторные работы ООП/labs_C_sharp/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/valeriya/Desktop/Лабораторные работы ООП/labs_C_sharp/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/valeriya/Desktop/Лабораторные работы ООП/labs_C_sharp/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/valeriya/Desktop/Лабораторные работы ООП/labs_C_sharp/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/valeriya/Desktop/Лабораторные работы ООП/labs_C_sharp/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/valeriya/Desktop/Лабораторные работы ООП/labs_C_sharp/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/valeriya/Desktop/Лабораторные работы ООП/labs_C_sharp/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/valeriya/Desktop/Лабораторные работы ООП/labs_C_sharp/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/valeriya/Desktop/Лабораторные работы ООП/labs_C_sharp/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/valeriya/Desktop/Лабораторные работы ООП/labs_C_sharp/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/valeriya/Desktop/Лабораторные работы ООП/labs_C_sharp/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/valeriya/Desktop/Лабораторные работы ООП/labs_C_sharp/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/valeriya/Desktop/Лабораторные работы ООП/labs_C_sharp/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/valeriya/Desktop/Лабораторные работы ООП/labs_C_sharp/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/valeriya/Desktop/Лабораторные работы ООП/labs_C_sharp/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/valeriya/Desktop/Лабораторные работы ООП/labs_C_sharp/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/valeriya/Desktop/Лабораторные работы ООП/labs_C_sharp/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/valeriya/Desktop/Лабораторные работы ООП/labs_C_sharp/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/valeriya/Desktop/Лабораторные работы ООП/labs_C_sharp/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/valeriya/Desktop/Лабораторные работы ООП/labs_C_sharp/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/valeriya/Desktop/Лабораторные работы ООП/labs_C_sharp/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/valeriya/Desktop/Лабораторные работы ООП/labs_C_sharp/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/valeriya/Desktop/Лабораторные работы ООП/labs_C_sharp/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/valeriya/Desktop/Лабораторные работы ООП/labs_C_sharp/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/valeriya/Desktop/Лабораторные работы ООП/labs_C_sharp/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/valeriya/Desktop/Лабораторные работы ООП/labs_C_sharp/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/valeriya/Desktop/Лабораторные работы ООП/labs_C_sharp/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/valeriya/Desktop/Лабораторные работы ООП/labs_C_sharp/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/valeriya/Desktop/Лабораторные работы ООП/labs_C_sharp/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/valeriya/Desktop/Лабораторные работы ООП/labs_C_sharp/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/valeriya/Desktop/Лабораторные работы ООП/labs_C_sharp/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/valeriya/Desktop/Лабораторные работы ООП/labs_C_sharp/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/valeriya/Desktop/Лабораторные работы ООП/labs_C_sharp/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/valeriya/Desktop/Лабораторные работы ООП/labs_C_sharp/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/valeriya/Desktop/Лабораторные работы ООП/labs_C_sharp/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/valeriya/Desktop/Лабораторные работы ООП/labs_C_sharp/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/valeriya/Desktop/Лабораторные работы ООП/labs_C_sharp/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/valeriya/Desktop/Лабораторные работы ООП/labs_C_sharp/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/valeriya/Desktop/Лабораторные работы ООП/labs_C_sharp/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/valeriya/Desktop/Лабораторные работы ООП/labs_C_sharp/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/valeriya/Desktop/Лабораторные работы ООП/labs_C_sharp/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/valeriya/Desktop/Лабораторные работы ООП/labs_C_sharp/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/valeriya/Desktop/Лабораторные работы ООП/labs_C_sharp/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/valeriya/Desktop/Лабораторные работы ООП/labs_C_sharp/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/valeriya/Desktop/Лабораторные работы ООП/labs_C_sharp/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/valeriya/Desktop/Лабораторные работы ООП/labs_C_sharp/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/valeriya/Desktop/Лабораторные работы ООП/labs_C_sharp/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/valeriya/Desktop/Лабораторные работы ООП/labs_C_sharp/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/valeriya/Desktop/Лабораторные работы ООП/labs_C_sharp/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/valeriya/Desktop/Лабораторные работы ООП/labs_C_sharp/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/valeriya/Desktop/Лабораторные работы ООП/labs_C_sharp/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/valeriya/Desktop/Лабораторные работы ООП/labs_C_sharp/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/valeriya/Desktop/Лабораторные работы ООП/labs_C_sharp/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/valeriya/Desktop/Лабораторные работы ООП/labs_C_sharp/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/valeriya/Desktop/Лабораторные работы ООП/labs_C_sharp/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/valeriya/Desktop/Лабораторные работы ООП/labs_C_sharp/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/DeliveryService.dll
+/Users/valeriya/Desktop/Лабораторные работы ООП/labs_C_sharp/Lab3/Tests/DeliveryService.Tests/bin/Debug/net9.0/DeliveryService.pdb
+/Users/valeriya/Desktop/Лабораторные работы ООП/labs_C_sharp/Lab3/Tests/DeliveryService.Tests/obj/Debug/net9.0/DeliveryService.Tests.csproj.AssemblyReference.cache
+/Users/valeriya/Desktop/Лабораторные работы ООП/labs_C_sharp/Lab3/Tests/DeliveryService.Tests/obj/Debug/net9.0/DeliveryService.Tests.GeneratedMSBuildEditorConfig.editorconfig
+/Users/valeriya/Desktop/Лабораторные работы ООП/labs_C_sharp/Lab3/Tests/DeliveryService.Tests/obj/Debug/net9.0/DeliveryService.Tests.AssemblyInfoInputs.cache
+/Users/valeriya/Desktop/Лабораторные работы ООП/labs_C_sharp/Lab3/Tests/DeliveryService.Tests/obj/Debug/net9.0/DeliveryService.Tests.AssemblyInfo.cs
+/Users/valeriya/Desktop/Лабораторные работы ООП/labs_C_sharp/Lab3/Tests/DeliveryService.Tests/obj/Debug/net9.0/DeliveryService.Tests.csproj.CoreCompileInputs.cache
+/Users/valeriya/Desktop/Лабораторные работы ООП/labs_C_sharp/Lab3/Tests/DeliveryService.Tests/obj/Debug/net9.0/DeliveryService.Tests.sourcelink.json
+/Users/valeriya/Desktop/Лабораторные работы ООП/labs_C_sharp/Lab3/Tests/DeliveryService.Tests/obj/Debug/net9.0/Delivery.05933267.Up2Date
+/Users/valeriya/Desktop/Лабораторные работы ООП/labs_C_sharp/Lab3/Tests/DeliveryService.Tests/obj/Debug/net9.0/DeliveryService.Tests.dll
+/Users/valeriya/Desktop/Лабораторные работы ООП/labs_C_sharp/Lab3/Tests/DeliveryService.Tests/obj/Debug/net9.0/refint/DeliveryService.Tests.dll
+/Users/valeriya/Desktop/Лабораторные работы ООП/labs_C_sharp/Lab3/Tests/DeliveryService.Tests/obj/Debug/net9.0/DeliveryService.Tests.pdb
+/Users/valeriya/Desktop/Лабораторные работы ООП/labs_C_sharp/Lab3/Tests/DeliveryService.Tests/obj/Debug/net9.0/DeliveryService.Tests.genruntimeconfig.cache
+/Users/valeriya/Desktop/Лабораторные работы ООП/labs_C_sharp/Lab3/Tests/DeliveryService.Tests/obj/Debug/net9.0/ref/DeliveryService.Tests.dll

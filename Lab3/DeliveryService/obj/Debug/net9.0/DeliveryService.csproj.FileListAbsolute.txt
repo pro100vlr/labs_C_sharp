@@ -1,0 +1,29 @@
+C:/Users/1601022/Desktop/Лера ИТМО/Lab3/DeliveryService/obj/Debug/net9.0/DeliveryService.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/1601022/Desktop/Лера ИТМО/Lab3/DeliveryService/obj/Debug/net9.0/DeliveryService.AssemblyInfoInputs.cache
+C:/Users/1601022/Desktop/Лера ИТМО/Lab3/DeliveryService/obj/Debug/net9.0/DeliveryService.AssemblyInfo.cs
+C:/Users/1601022/Desktop/Лера ИТМО/Lab3/DeliveryService/obj/Debug/net9.0/DeliveryService.csproj.CoreCompileInputs.cache
+C:/Users/1601022/Desktop/Лера ИТМО/Lab3/DeliveryService/bin/Debug/net9.0/DeliveryService.exe
+C:/Users/1601022/Desktop/Лера ИТМО/Lab3/DeliveryService/bin/Debug/net9.0/DeliveryService.deps.json
+C:/Users/1601022/Desktop/Лера ИТМО/Lab3/DeliveryService/bin/Debug/net9.0/DeliveryService.runtimeconfig.json
+C:/Users/1601022/Desktop/Лера ИТМО/Lab3/DeliveryService/bin/Debug/net9.0/DeliveryService.dll
+C:/Users/1601022/Desktop/Лера ИТМО/Lab3/DeliveryService/bin/Debug/net9.0/DeliveryService.pdb
+C:/Users/1601022/Desktop/Лера ИТМО/Lab3/DeliveryService/obj/Debug/net9.0/DeliveryService.dll
+C:/Users/1601022/Desktop/Лера ИТМО/Lab3/DeliveryService/obj/Debug/net9.0/refint/DeliveryService.dll
+C:/Users/1601022/Desktop/Лера ИТМО/Lab3/DeliveryService/obj/Debug/net9.0/DeliveryService.pdb
+C:/Users/1601022/Desktop/Лера ИТМО/Lab3/DeliveryService/obj/Debug/net9.0/DeliveryService.genruntimeconfig.cache
+C:/Users/1601022/Desktop/Лера ИТМО/Lab3/DeliveryService/obj/Debug/net9.0/ref/DeliveryService.dll
+/Users/valeriya/Desktop/Лабораторные работы ООП/labs_C_sharp/Lab3/DeliveryService/bin/Debug/net9.0/DeliveryService
+/Users/valeriya/Desktop/Лабораторные работы ООП/labs_C_sharp/Lab3/DeliveryService/bin/Debug/net9.0/DeliveryService.deps.json
+/Users/valeriya/Desktop/Лабораторные работы ООП/labs_C_sharp/Lab3/DeliveryService/bin/Debug/net9.0/DeliveryService.runtimeconfig.json
+/Users/valeriya/Desktop/Лабораторные работы ООП/labs_C_sharp/Lab3/DeliveryService/bin/Debug/net9.0/DeliveryService.dll
+/Users/valeriya/Desktop/Лабораторные работы ООП/labs_C_sharp/Lab3/DeliveryService/bin/Debug/net9.0/DeliveryService.pdb
+/Users/valeriya/Desktop/Лабораторные работы ООП/labs_C_sharp/Lab3/DeliveryService/obj/Debug/net9.0/DeliveryService.GeneratedMSBuildEditorConfig.editorconfig
+/Users/valeriya/Desktop/Лабораторные работы ООП/labs_C_sharp/Lab3/DeliveryService/obj/Debug/net9.0/DeliveryService.AssemblyInfoInputs.cache
+/Users/valeriya/Desktop/Лабораторные работы ООП/labs_C_sharp/Lab3/DeliveryService/obj/Debug/net9.0/DeliveryService.AssemblyInfo.cs
+/Users/valeriya/Desktop/Лабораторные работы ООП/labs_C_sharp/Lab3/DeliveryService/obj/Debug/net9.0/DeliveryService.csproj.CoreCompileInputs.cache
+/Users/valeriya/Desktop/Лабораторные работы ООП/labs_C_sharp/Lab3/DeliveryService/obj/Debug/net9.0/DeliveryService.sourcelink.json
+/Users/valeriya/Desktop/Лабораторные работы ООП/labs_C_sharp/Lab3/DeliveryService/obj/Debug/net9.0/DeliveryService.dll
+/Users/valeriya/Desktop/Лабораторные работы ООП/labs_C_sharp/Lab3/DeliveryService/obj/Debug/net9.0/refint/DeliveryService.dll
+/Users/valeriya/Desktop/Лабораторные работы ООП/labs_C_sharp/Lab3/DeliveryService/obj/Debug/net9.0/DeliveryService.pdb
+/Users/valeriya/Desktop/Лабораторные работы ООП/labs_C_sharp/Lab3/DeliveryService/obj/Debug/net9.0/DeliveryService.genruntimeconfig.cache
+/Users/valeriya/Desktop/Лабораторные работы ООП/labs_C_sharp/Lab3/DeliveryService/obj/Debug/net9.0/ref/DeliveryService.dll
